@@ -34,7 +34,7 @@ const apikeyimgbb = '824babd1991314061a3ea5ee1eb702b5'
 const cr = '𝙀𝙡𝙞𝙯𝙖𝙗𝙚𝙩𝙝\n' 
 // texto do simbolo de verificado
 
-const prefix = '!' 
+const prefix = '*' 
 // prefixo
 
 const blockedmsg = ''
